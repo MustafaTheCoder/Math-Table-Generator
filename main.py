@@ -1,7 +1,7 @@
 """
 Author: MustafaXD (github.com/MustafaTheCoder)
 MIT License: https://opensource.org/licenses/MIT
-Github: github.com/MustafaTheCoder/Math-Equation-Calculator/blob/main/main.py
+Github: github.com/MustafaTheCoder/Math-Table-Generator/blob/main/main.py
 """
 
 # Importing essential modules
